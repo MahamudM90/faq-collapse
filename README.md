@@ -1,2 +1,2 @@
 # faq-collapse
-This is small Website.
+This is small Website of Faq-.
